@@ -1,0 +1,157 @@
+[
+  {
+    "settings": {
+      "openEditInWindow": false,
+      "openEditInWindow.popup": false,
+      "windowPosition": {},
+      "show-badge": true,
+      "disableAll": false,
+      "exposeIframes": false,
+      "exposeStyleName": false,
+      "newStyleAsUsercss": true,
+      "styleViaXhr": false,
+      "patchCsp": false,
+      "config.autosave": true,
+      "schemeSwitcher.enabled": "system",
+      "schemeSwitcher.nightStart": "18:00",
+      "schemeSwitcher.nightEnd": "06:00",
+      "popup.breadcrumbs": true,
+      "popup.breadcrumbs.usePath": false,
+      "popup.enabledFirst": true,
+      "popup.stylesFirst": true,
+      "popup.autoResort": false,
+      "popup.borders": false,
+      "popup.findSort": "u",
+      "manage.onlyEnabled": false,
+      "manage.onlyLocal": false,
+      "manage.onlyUsercss": false,
+      "manage.onlyEnabled.invert": false,
+      "manage.onlyLocal.invert": false,
+      "manage.onlyUsercss.invert": false,
+      "manage.actions.expanded": true,
+      "manage.backup.expanded": true,
+      "manage.filters.expanded": true,
+      "manage.minColumnWidth": 750,
+      "manage.newUI": true,
+      "manage.newUI.favicons": false,
+      "manage.newUI.faviconsGray": true,
+      "manage.newUI.targets": 3,
+      "manage.newUI.sort": "title,asc",
+      "editor.options": {},
+      "editor.toc.expanded": true,
+      "editor.options.expanded": true,
+      "editor.lint.expanded": true,
+      "editor.publish.expanded": true,
+      "editor.lineWrapping": true,
+      "editor.smartIndent": true,
+      "editor.indentWithTabs": false,
+      "editor.tabSize": 4,
+      "editor.keyMap": "sublime",
+      "editor.theme": "default",
+      "editor.beautify": {
+        "selector_separator_newline": true,
+        "newline_before_open_brace": false,
+        "newline_after_open_brace": true,
+        "newline_between_properties": true,
+        "newline_before_close_brace": true,
+        "newline_between_rules": false,
+        "preserve_newlines": true,
+        "end_with_newline": false,
+        "indent_conditional": true,
+        "indent_mozdoc": true
+      },
+      "editor.beautify.hotkey": "",
+      "editor.lintDelay": 300,
+      "editor.linter": "csslint",
+      "editor.lintReportDelay": 500,
+      "editor.matchHighlight": "token",
+      "editor.autoCloseBrackets": true,
+      "editor.autocompleteOnTyping": false,
+      "editor.contextDelete": false,
+      "editor.selectByTokens": true,
+      "editor.arrowKeysTraverse": true,
+      "editor.appliesToLineWidget": true,
+      "editor.autosaveDraft": 10,
+      "editor.livePreview": true,
+      "editor.colorpicker": true,
+      "editor.colorpicker.hexUppercase": false,
+      "editor.colorpicker.hotkey": "",
+      "editor.colorpicker.color": "",
+      "editor.colorpicker.maxHeight": 300,
+      "hotkey._execute_browser_action": "",
+      "hotkey.openManage": "",
+      "hotkey.styleDisableAll": "",
+      "sync.enabled": "none",
+      "iconset": -1,
+      "badgeDisabled": "#8B0000",
+      "badgeNormal": "#006666",
+      "headerWidth.edit": 280,
+      "headerWidth.install": 280,
+      "headerWidth.manage": 280,
+      "popupWidth": 246,
+      "updateInterval": 24
+    },
+    "order": {
+      "main": [],
+      "prio": []
+    }
+  },
+  {
+    "enabled": false,
+    "installDate": 1658416876638,
+    "name": "nicovideo.jp",
+    "sections": [
+      {
+        "code": ".common-header-cdesjj{ display:none;}\n#CommonHeader{ display:none;}\n.site{ display:none;}\n#blog aside.main{ display:none;}\nfooter.content{ display:none;}\n.article_end_data{ display:none;}\n#comment_area{ display:none;}\n",
+        "domains": [
+          "nicovideo.jp"
+        ]
+      }
+    ],
+    "updateDate": 1658417267237,
+    "_id": "313f97e7-b3be-4a63-bcd2-f40d174ae1c7",
+    "_rev": 1676951376923,
+    "id": 1
+  },
+  {
+    "enabled": false,
+    "installDate": 1672797267720,
+    "name": "yuchrszk.blogspot.com",
+    "sections": [
+      {
+        "code": "#side-section{ display:none;}\n#footer{ display:none;}\n#header .menu-container{ display:none;}\ninput.gsc-input{ display:none;}\ninput.gsc-search-button{ display:none;}",
+        "domains": [
+          "yuchrszk.blogspot.com"
+        ]
+      }
+    ],
+    "updateDate": 1672797529495,
+    "_id": "9b72fd6a-42c6-4f55-889c-19eaddeb8985",
+    "_rev": 1672830427703,
+    "id": 3
+  },
+  {
+    "enabled": true,
+    "installDate": 1679773347084,
+    "sections": [
+      {
+        "code": ""
+      }
+    ],
+    "sourceCode": "/* ==UserStyle==\n@name           wikipedia.org - 2023/3/26 4:40:08\n@namespace      github.com/openstyles/stylus\n@version        1.0.0\n@description    A new userstyle\n@author         Me\n==/UserStyle== */\n.vector-sitenotice-container {\n    display: none;\n}\n\n\n@-moz-document domain(\"wikipedia.org\") {\n    /* ここにコードを挿入... */\n}",
+    "usercssData": {
+      "name": "wikipedia.org - 2023/3/26 4:40:08",
+      "namespace": "github.com/openstyles/stylus",
+      "version": "1.0.0",
+      "description": "A new userstyle",
+      "author": "Me"
+    },
+    "author": "Me",
+    "description": "A new userstyle",
+    "name": "wikipedia.org - 2023/3/26 4:40:08",
+    "updateDate": 1679773408974,
+    "_id": "5611c5dd-5975-49c2-a5d7-f7c7f6deaf7f",
+    "_rev": 1679773417019,
+    "id": 4
+  }
+]
